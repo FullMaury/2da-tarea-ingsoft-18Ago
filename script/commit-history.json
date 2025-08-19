@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "FullMaury",
+    "commit": {
+      "date": "2025-08-19T04:08:53.000Z",
+      "message": "multiplicador",
+      "url": "https://github.com/FullMaury/2da-tarea-ingsoft-18Ago/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 14,
+      "deletions": 2,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
